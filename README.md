@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArThUrSMaToS
+- 👀 I’m interested in videogames, broadcast, books
+- 🌱 I’m currently learning python and C
